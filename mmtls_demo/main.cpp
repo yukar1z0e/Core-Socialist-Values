@@ -2,12 +2,10 @@
 //  main.cpp
 //  mmtls_demo
 //
-//  Created by lidawen on 2019/4/23.
-//  Copyright © 2019 top.dawenhing. All rights reserved.
-//
 
-#import <Foundation/Foundation.h>
-#import <Security/SecRandom.h>
+
+// #import <Foundation/Foundation.h>
+// #import <Security/SecRandom.h>
 
 #include <stdio.h>
 #include <string>
